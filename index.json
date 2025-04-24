@@ -1,0 +1,17 @@
+{
+    "manifests": {
+        "holsterlabs/password-policies": {
+            "1.0.1": {
+                "manifest": {
+                    "bundles": {
+                        "Hl\\PasswordPolicies\\HlPasswordPoliciesBundle": ["all"]
+                    },
+                    "config": {
+                        "hl_password_policies.yaml": "config/packages/hl_password_policies.yaml"
+                    }
+                },
+                "ref": "1.0.1"
+            }
+        }
+    }
+}
