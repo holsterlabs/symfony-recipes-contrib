@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "Hl\\PasswordPolicies\\HlPasswordPoliciesBundle": ["all"]
+  },
+  "config": {
+    "hl_password_policies.yaml": "config/packages/hl_password_policies.yaml"
+  }
+}
