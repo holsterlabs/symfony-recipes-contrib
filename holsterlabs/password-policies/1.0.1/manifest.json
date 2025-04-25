@@ -2,7 +2,7 @@
     "bundles": {
         "Hl\\PasswordPolicies\\HlPasswordPoliciesBundle": ["all"]
     },
-    "copy-from-recipe": {
-        "config/": "%CONFIG_DIR%/"
+    "config": {
+        "hl_password_policies.yaml": "config/packages/hl_password_policies.yaml"
     }
 }
