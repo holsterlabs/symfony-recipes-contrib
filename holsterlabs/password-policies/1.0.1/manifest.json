@@ -3,6 +3,6 @@
         "Hl\\PasswordPolicies\\HlPasswordPoliciesBundle": ["all"]
     },
     "copy-from-recipe": {
-        "config/": "config/"
+        "config/": "%CONFIG_DIR%/"
     }
 }
