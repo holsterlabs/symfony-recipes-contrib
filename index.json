@@ -1,5 +1,7 @@
 {
     "holsterlabs/password-policies": {
-        "manifest": "https://raw.githubusercontent.com/holsterlabs/symfony-recipes-contrib/master/holsterlabs/password-policies/1.0/manifest.json"
+        "1.0": {
+            "manifest": "holsterlabs/password-policies/1.0/manifest.json"
+        }
     }
 }
