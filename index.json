@@ -1,7 +1,8 @@
 {
     "holsterlabs/password-policies": {
         "1.0": {
-            "manifest": "holsterlabs/password-policies/1.0/manifest.json"
+            "manifest": "holsterlabs/password-policies/1.0/manifest.json",
+            "splits": ["holsterlabs/password-policies"]
         }
     }
 }
