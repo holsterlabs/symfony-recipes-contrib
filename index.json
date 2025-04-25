@@ -1,9 +1,9 @@
 {
     "aliases": {
-        "2fa": "holsterlabs/password-policies"
+        "password-policies": "holsterlabs/password-policies"
     },
     "recipes": {
-        "scheb/2fa-bundle": ["5.0", "6.0"]
+        "holsterlabs/password-policies": ["1.0"]
     },
     "branch": "master",
     "is_contrib": false,
