@@ -6,7 +6,7 @@
         "holsterlabs/password-policies": ["1.0"]
     },
     "branch": "master",
-    "is_contrib": false,
+    "is_contrib": true,
     "_links": {
         "repository": "github.com/holsterlabs/symfony-recipes-contrib",
         "origin_template": "{package}:{version}@github.com/holsterlabs/symfony-recipes-contrib:master",
